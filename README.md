@@ -1,7 +1,10 @@
 # FAC22-Pre-Programme
 
 ---
-Task|Week 1
+### Week1
+---
+
+Task|details
 --------|----------
 :heavy_check_mark:  Istallation| - Install softwares to get started
 :heavy_check_mark:  Github| - Creating Repo for pre course
@@ -11,6 +14,8 @@ Task|Week 1
 :heavy_check_mark: [Terminal](https://www.digitalocean.com/community/tutorials/a-linux-command-line-primer)| - Why using the Terminal <br/> - Commands
 :heavy_check_mark:  Projects|- JS Drum Kit<br /> - CSS + JS Clock
 :heavy_check_mark: [Execute Program](https://www.executeprogram.com/)|-Modern JavaScript (4 of 44 tasks learned)
+:heavy_check_mark: Projects|- JS Drum Kit
 
 ---
+
 
