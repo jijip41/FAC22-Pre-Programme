@@ -71,6 +71,7 @@ document.addEventListener('keydown', e => {
 });
 document.addEventListener('keyup', e => {
   let div = document.querySelector(`div[data-key="${e.keyCode}"]`)
+  if(!div) return;
   div.classList.remove('playing');  
 }
 );
