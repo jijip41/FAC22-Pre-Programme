@@ -62,6 +62,8 @@
 
 document.addEventListener('keydown', e => {
   let audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
+  if(!audio) return; // stop the function when any other than [asdfghjkl] keys are down
+  audio.currentTime = 0;
   audio.play();
 
   let div = document.querySelector(`div[data-key="${e.keyCode}"]`)
@@ -69,6 +71,7 @@ document.addEventListener('keydown', e => {
 });
 document.addEventListener('keyup', e => {
   let div = document.querySelector(`div[data-key="${e.keyCode}"]`)
+  if(!div) return;
   div.classList.remove('playing');  
 }
 );
