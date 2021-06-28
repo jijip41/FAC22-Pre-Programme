@@ -59,24 +59,34 @@
 
 <script>
 
-
-document.addEventListener('keydown', e => {
+function playAudio(e) {
   let audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
-  let div = document.querySelector(`div[data-key="${e.keyCode}"]`)
   if(!audio) return; // stop the function when any other than [asdfghjkl] keys are down
   audio.currentTime = 0;
   audio.play();
+}
+
+function removePlaying(e) {
+  let div = document.querySelector(`div[data-key="${e.keyCode}"]`)
+  if(!div) return;
   div.classList.add('playing');
+}
+
+function removeTransition(e) {
+  if(e.propertyName !== 'transform') return; // ignore if its property name is not transform
+  this.classList.remove('playing');
+}
+
+document.addEventListener('keydown', e => {
+  playAudio(e);
+  removePlaying(e)
 });
 
 // Try to use 'transitionend' for addEventListener
 
 const keys = document.querySelectorAll('.key');
 
-keys.forEach(key => key.addEventListener('transitionend', (e) => {
-  if(e.propertyName !== 'transform') return; // ignore if its property name is not transform
-  key.classList.remove('playing');
-}))
+keys.forEach(key => key.addEventListener('transitionend', removeTransition));
 
 
 // document.addEventListener('keyup', e => {
