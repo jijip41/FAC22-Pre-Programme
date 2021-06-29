@@ -15,7 +15,7 @@ Task|details
 :heavy_check_mark:  Projects| - JS Drum Kit / [check repository](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week1/01JavaScriptDrumKit)<br /> - CSS + JS Clock
 :heavy_check_mark: [Execute Program](https://www.executeprogram.com/)| -Modern JavaScript (4 of 44 tasks learned)
 :heavy_check_mark: [A11y](https://learn.foundersandcoders.com/workshops/learn-a11y/)| - Practice building sites for everyone / [check the repository](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week1/learn-a11y)
-:heavy_check_mark:| - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)
+:heavy_check_mark: Twitter| - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)
 ---
 
 
