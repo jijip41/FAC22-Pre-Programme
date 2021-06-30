@@ -64,7 +64,21 @@
       top: 50%;
       transform-origin: 100%;
       transform: rotate(90deg);
+      transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
     }
+
+    .hour-hand {
+      background: yellow;
+    }
+    
+    .min-hand {
+      background: green;
+    }
+
+    .second-hand {
+      background: red;
+    }
+
 
   </style>
 
@@ -79,11 +93,17 @@
     function setTime() {
       setInterval(()=>{
         let time = new Date();
-        let hrs = time.getHours() * 12;
+        let hrs = time.getHours();
         let mins = time.getMinutes() * 6;
         let secs = time.getSeconds() * 6;
-
-        hr_hand.style.transform=`rotate((${90 + hrs}deg)`;
+        console.log(hrs);
+        if(hrs < 13) {
+          hrs = hrs * 30;
+        } else{
+          hrs = (hrs - 12) * 30;
+        }
+        console.log(hrs);
+        hr_hand.style.transform=`rotate(${90 + hrs}deg)`;
         min_hand.style.transform=`rotate(${90 + mins}deg)`;
         sec_hand.style.transform=`rotate(${90 + secs}deg)`;
       }, 1000)
