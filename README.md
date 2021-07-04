@@ -30,5 +30,5 @@ CSS Layouts| - Work through the CSS Layouts workshop<br> - Build a projects gall
 CSS Grid | 
 A11y |
 JS30 | 
-Execute Program |
+Execute Program | - JavaScript Arrays **15%**<br> -Modern JavaScript **23%**
 ---
