@@ -18,9 +18,9 @@ Task|details
 :heavy_check_mark: Twitter| - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)
 ---
 
+<br>
+<br>
 
-<br>
-<br>
 ---
 ### Week2
 ---
