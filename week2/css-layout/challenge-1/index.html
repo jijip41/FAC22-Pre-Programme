@@ -22,7 +22,6 @@
         font-family: system-ui, sans-serif;
       }
       header {
-        max-width: 60rem;
         padding: 1.5rem;
         background-color: black;
         color: white;
@@ -31,10 +30,10 @@
         padding: 1.5rem;
       }
 
-      .first-section{
+      .center {
         max-width: 40rem;
         margin-right: auto;
-        margin-left: auto;
+        margin-left: auto;    
       }
 
       .contact{
@@ -42,10 +41,14 @@
         margin-right: auto;
         margin-left: auto;
       }
+
+      .width-large {
+        max-width: 60rem;
+      }
     </style>
   </head>
   <body>
-    <header>
+    <header class="center width-large">
       <h1>Welcome to my site</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus
@@ -55,7 +58,7 @@
       </p>
     </header>
     <main>
-      <section class="first-section">
+      <section class="center">
         <h2>The first section</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus
@@ -65,7 +68,7 @@
         </p>
       </section>
 
-      <section class="contact">
+      <section class="center contact">
         <h2>Contact me</h2>
         <form>
           <div>
