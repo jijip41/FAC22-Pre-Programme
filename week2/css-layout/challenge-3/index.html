@@ -29,24 +29,24 @@
         padding: 1.5rem;
         background-color: black;
         color: white;
+      }
+      .row {
         display: flex;
+        flex-wrap: wrap;
         align-items: center;
+        gap: 1rem;
+        justify-content: space-between;
       }
 
-      nav ul{
-        display: flex;
-        align-items: center;
-        justify-content: flex-end;
-        gap: 1rem;
-      }
+    
 
     </style>
   </head>
   <body>
-    <header>
+    <header class="row">
       <a href="/" aria-label="Home">🐹</a>
-      <nav>
-        <ul>
+      <nav class="nav-row">
+        <ul class="row">
           <li><a href="#about">About</a></li>
           <li><a href="#work">Work</a></li>
           <li><a href="#blog">Blog</a></li>
