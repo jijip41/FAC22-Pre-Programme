@@ -27,7 +27,7 @@ Task|details
 Task|details
 --------|----------
 CSS Layouts| - Work through the CSS Layouts workshop<br>  (1) [challenge 1](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-1)<br>(2)[challenge 2](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-2)<br>(3)[challenge 3](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-3)<br>(4)[challenge 4](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-4)<br> - Build a projects gallery
-CSS Grid | 
+:heavy_check_mark: CSS Grid | - [Grid Garden](https://cssgridgarden.com/) <br> - [BBC News style](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-grid/learn-css-grid-master) 
 A11y |
 JS30 | 
 Execute Program | - JavaScript Arrays **15%**<br> -Modern JavaScript **23%**
