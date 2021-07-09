@@ -30,5 +30,19 @@ Task|details
 :heavy_check_mark: CSS Grid | - [Grid Garden](https://cssgridgarden.com/) <br> - [BBC News style](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-grid/learn-css-grid-master) 
 :heavy_check_mark:A11y | - [ARIA Labels](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/) <br> - [Why they're used](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/)
 JS30 | - [CSS Variables and JS](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/CSS-Variables-and-JS) <br> - Array Cardio 1
-:heavy_check_mark:Execute Program | - JavaScript Arrays **15%**<br> -Modern JavaScript **33%**
+:heavy_check_mark:Execute Program | - JavaScript Arrays **15%**<br> - Modern JavaScript **33%**
 ---
+
+<br>
+<br>
+
+---
+### Week3
+---
+Task|details
+--------|----------
+Git and GitHub| - CSS Architecture <br> - Responsive Design <br> - Advanced CSS
+Technical spikes| - CSS Architecture 
+Project| - Projects Gallery(Refactor)
+JJ30| -Array Cardio 2<br> - Flex Panels Image Gallery
+Execute Program| - JavaScript Arrays **15%**<br> - Modern JavaScript **33%**<br> - Concurrency<br> - Regular Expressions<br> -SQL
