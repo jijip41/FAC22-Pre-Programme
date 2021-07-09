@@ -26,10 +26,10 @@ Task|details
 ---
 Task|details
 --------|----------
-:heavy_check_mark:CSS Layouts| - Work through the CSS Layouts workshop<br>  (1) [challenge 1](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-1)<br>(2)[challenge 2](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-2)<br>(3)[challenge 3](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-3)<br>(4)[challenge 4](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-4)<br> - Build a projects gallery
+:heavy_check_mark:CSS Layouts| - Work through the CSS Layouts workshop<br>  (1) [challenge 1](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-1)<br>(2)[challenge 2](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-2)<br>(3)[challenge 3](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-3)<br>(4)[challenge 4](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-layout/challenge-4)<br> - [Build a projects gallery](https://jijip41.github.io/Ji-Projects-Gallery/)
 :heavy_check_mark: CSS Grid | - [Grid Garden](https://cssgridgarden.com/) <br> - [BBC News style](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/css-grid/learn-css-grid-master) 
 :heavy_check_mark:A11y | - [ARIA Labels](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/) <br> - [Why they're used](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/)
-JS30 | - [CSS Variables and JS](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/CSS-Variables-and-JS) <br> - Array Cardio 1
+JS30 | - [CSS Variables and JS](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/CSS-Variables-and-JS) <br> - [Array Cardio 1](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/04-array-cardio-1)
 :heavy_check_mark:Execute Program | - JavaScript Arrays **15%**<br> - Modern JavaScript **33%**
 ---
 
