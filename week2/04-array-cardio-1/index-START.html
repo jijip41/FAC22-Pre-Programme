@@ -68,10 +68,27 @@
     // 7. sort Exercise
     // Sort the people alphabetically by last name
 
+    console.log(people.sort((lastOne, nextOne) => {
+      const [alast, afirst] = lastOne.split(", ");
+      const [blast, bfirst] = nextOne.split(", ");
+      return alast > blast ? 1 : -1;
+    }));
 
     // 8. Reduce Exercise
     // Sum up the instances of each of these
     const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ];
+    // let obj = {};
+    // data.map(e => obj[e] ? obj[e]++ : obj[e] = 1);
+    // console.log(obj);
+
+    const transport = data.reduce((obj, item) => {
+      if(!obj[item]) {
+        obj[item] = 0;
+      } 
+      obj[item]++;
+      return obj;
+    }, {})
+    console.log(transport);
 
   </script>
 </body>
