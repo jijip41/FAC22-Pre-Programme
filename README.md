@@ -1,7 +1,7 @@
 # FAC22-Pre-Programme
 
 ---
-### Week1
+### [Week1](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week1)
 ---
 
 Task|details
@@ -22,7 +22,7 @@ Task|details
 <br>
 
 ---
-### Week2
+### [Week2](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2)
 ---
 Task|details
 --------|----------
@@ -37,12 +37,11 @@ Task|details
 <br>
 
 ---
-### Week3
+### [Week3](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week3)
 ---
 Task|details
 --------|----------
-Git and GitHub| - CSS Architecture <br> - Responsive Design <br> - Advanced CSS
-Technical spikes| - CSS Architecture 
+:heavy_check_mark: [Technical spikes repo](https://github.com/jijip41/Learning)| - CSS Architecture <br> - Responsive Design <br> - Advanced CSS
 Project| - Projects Gallery(Refactor)
-JS30| - Array Cardio 2<br> - Flex Panels Image Gallery
-Execute Program| - JavaScript Arrays **33%**<br> - Modern JavaScript **50%**<br> - Concurrency<br> - Regular Expressions<br> -SQL
+:heavy_check_mark: JS30| - [Array Cardio 2](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week3/array-cardio-2)<br> - [Flex Panels Image Gallery](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week3/flex-panel-gallery)
+:heavy_check_mark: Execute Program| - JavaScript Arrays **33%**<br> - Modern JavaScript **50%**<br> - Concurrency<br> - Regular Expressions<br> -SQL
