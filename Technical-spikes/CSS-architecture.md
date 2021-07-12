@@ -27,6 +27,9 @@ fontWeight X
 <br>
 
 ### The BEM Naming Convention
+
+***hyphens for blocks double underscores for elements and double hyphens for modifiers.***
+
 Teams have different approches to writing CSS selectors (hyphen delimiters / BEM - more structured naming convention)
 <br>
 <br>
@@ -43,8 +46,15 @@ e.g.
 ``` .nav--secondary{ ...}```
 <br>
 ``` .nav__header { ...} ```
-
+ 
 
 ---
 ### CSS? 
-- It's difficult to maintain
+- It's difficult to maintain. But should keep stylesheets mainainable is important.
+- keep code transparent, sane, and readable;
+- keep stylesheets scalable.
+
+
+Syntax and Formatting
+
+code will always look and feel familiar to all members of the team.
