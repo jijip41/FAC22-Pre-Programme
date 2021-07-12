@@ -45,4 +45,4 @@ Git and GitHub| - CSS Architecture <br> - Responsive Design <br> - Advanced CSS
 Technical spikes| - CSS Architecture 
 Project| - Projects Gallery(Refactor)
 JS30| - Array Cardio 2<br> - Flex Panels Image Gallery
-Execute Program| - JavaScript Arrays **15%**<br> - Modern JavaScript **33%**<br> - Concurrency<br> - Regular Expressions<br> -SQL
+Execute Program| - JavaScript Arrays **15%**<br> - Modern JavaScript **50%**<br> - Concurrency<br> - Regular Expressions<br> -SQL
