@@ -63,9 +63,9 @@
 ---
 
 | Task                                      | details                                                                                                           |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | :heavy_check_mark: Git and GitHub         | keep committing at least once a day                                                                               |
-| :heavy_check_mark: Linting and formatting | - install Prettier<br>- ESLint                                                                                    | [Repo for project with ESlint](https://github.com/jijip41/Project-with-ESLint) |
+| :heavy_check_mark: Linting and formatting | - install Prettier<br> - ESLint: [Repo for project with ESlint](https://github.com/jijip41/Project-with-ESLint)   |
 | Project                                   | building agency website in pairs                                                                                  |
 | Spikes                                    | What different ways can we make sure our code is consistent?                                                      |
 | :heavy_check_mark: Execute Program        | - JavaScript Arrays **96%**<br> - Modern JavaScript **93%**<br> - Concurrency<br> - Regular Expressions<br> - SQL |
