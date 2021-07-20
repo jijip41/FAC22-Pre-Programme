@@ -37,6 +37,7 @@
 | :heavy_check_mark: A11y            | - [ARIA Labels](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/) <br> - [Why they're used](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/)                                                                                                                                                                                                                                                                                                                                                           |
 | :heavy_check_mark: JS30            | - [CSS Variables and JS](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/CSS-Variables-and-JS) <br> - [Array Cardio 1](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week2/04-array-cardio-1)                                                                                                                                                                                                                                                                                                                                                |
 | :heavy_check_mark: Execute Program | - JavaScript Arrays **15%**<br> - Modern JavaScript **33%**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :heavy_check_mark: Twitter         | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ---
 
@@ -55,6 +56,7 @@
 | :heavy_check_mark: Project                                                      | - Projects Gallery(Refactor)                                                                                                                                                                                           |
 | :heavy_check_mark: JS30                                                         | - [Array Cardio 2](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week3/array-cardio-2)<br> - [Flex Panels Image Gallery](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week3/flex-panel-gallery) |
 | :heavy_check_mark: Execute Program                                              | - JavaScript Arrays **33%**<br> - Modern JavaScript **50%**<br> - Concurrency<br> - Regular Expressions<br> - SQL                                                                                                      |
+| :heavy_check_mark: Twitter                                                      | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                                                                            |
 
 ---
 
@@ -69,7 +71,8 @@
 | :heavy_check_mark: Project                | building agency website in pairs                                                                                            |
 | Spikes                                    | What different ways can we make sure our code is consistent?                                                                |
 | :heavy_check_mark: Execute Program        | - JavaScript Arrays **100%**<br> - Modern JavaScript **100%**<br> - Concurrency<br> - Regular Expressions **20%**<br> - SQL |
-| JS30                                      | - 14 Must Know Dev Tools Tricks<br>- Hold Shift to Check Mulitple Checkboxes                                                |
+| :heavy_check_mark: JS30                   | - 14 Must Know Dev Tools Tricks<br>- Hold Shift to Check Mulitple Checkboxes                                                |
+| :heavy_check_mark: Twitter                | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                 |
 
 ---
 
