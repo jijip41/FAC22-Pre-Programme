@@ -100,11 +100,9 @@
       checkbox.forEach((e, i) =>
         e.addEventListener('change', () => {
           index.push(i);
-          console.log(index);
           index.sort();
           let first = index[0];
           let last = index[index.length - 1];
-          console.log(first, last);
           checkbox.slice(first, last + 1).forEach((e) => (e.checked = true));
         })
       );
