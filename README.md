@@ -64,15 +64,15 @@
 
 ---
 
-| Task                                      | details                                                                                                                     |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| :heavy_check_mark: Git and GitHub         | keep committing at least once a day                                                                                         |
-| :heavy_check_mark: Linting and formatting | - install Prettier<br> - ESLint: [Repo for project with ESlint](https://github.com/jijip41/Project-with-ESLint)             |
-| :heavy_check_mark: Project                | building agency website in pairs                                                                                            |
-| Spikes                                    | What different ways can we make sure our code is consistent?                                                                |
-| :heavy_check_mark: Execute Program        | - JavaScript Arrays **100%**<br> - Modern JavaScript **100%**<br> - Concurrency<br> - Regular Expressions **20%**<br> - SQL |
-| :heavy_check_mark: JS30                   | - 14 Must Know Dev Tools Tricks<br>- Hold Shift to Check Mulitple Checkboxes                                                |
-| :heavy_check_mark: Twitter                | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                 |
+| Task                                      | details                                                                                                                                                                                                                                                                        |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :heavy_check_mark: Git and GitHub         | keep committing at least once a day                                                                                                                                                                                                                                            |
+| :heavy_check_mark: Linting and formatting | - install Prettier<br> - ESLint: [Repo for project with ESlint](https://github.com/jijip41/Project-with-ESLint)                                                                                                                                                                |
+| :heavy_check_mark: Project                | building agency website in pairs                                                                                                                                                                                                                                               |
+| Spikes                                    | What different ways can we make sure our code is consistent?                                                                                                                                                                                                                   |
+| :heavy_check_mark: Execute Program        | - JavaScript Arrays **100%**<br> - Modern JavaScript **100%**<br> - Concurrency<br> - Regular Expressions **20%**<br> - SQL                                                                                                                                                    |
+| :heavy_check_mark: JS30                   | - [14 Must Know Dev Tools Tricks](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week4/14-must-know-dev-tools-tricks)<br>- [Hold Shift to Check Mulitple Checkboxes](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week4/hold-shift-and-check-checkboxes) |
+| :heavy_check_mark: Twitter                | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                                                                                                                                    |
 
 ---
 
