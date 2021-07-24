@@ -77,3 +77,23 @@
 ---
 
 ![image description](https://camo.githubusercontent.com/b192adfb8ff465a3aa3fb799bdeb0d94774ccf150c09c8a1a209b5454cb0b64e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78484d4944417931716b7a4e532f67697068792e676966)
+
+---
+
+### Week5
+
+---
+
+| Task                              | details                             |
+| --------------------------------- | ----------------------------------- |
+| :heavy_check_mark: Git and GitHub | keep committing at least once a day |
+
+| Project | building agency website in pairs |
+| Spikes | Advanced DOM |
+| :heavy_check_mark: Execute Program | - JavaScript Arrays **100%**<br> - Modern JavaScript **100%**<br> - Concurrency **17%**<br> - Regular Expressions **65%**<br> - SQL **13%** |
+| JS30 | - [Object and Arrays - Reference VS Copy]()<br>- [Sorting Band Names without articles]() |
+| :heavy_check_mark: Twitter | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak) |
+
+---
+
+![image description](https://camo.githubusercontent.com/b192adfb8ff465a3aa3fb799bdeb0d94774ccf150c09c8a1a209b5454cb0b64e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78484d4944417931716b7a4e532f67697068792e676966)
