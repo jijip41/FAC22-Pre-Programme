@@ -60,6 +60,12 @@
 
 ---
 
+<br>
+<br>
+---
+
+---
+
 ### Week4
 
 ---
@@ -76,6 +82,12 @@
 
 ---
 
+<br>
+<br>
+---
+
+---
+
 ### Week5
 
 ---
@@ -85,7 +97,7 @@
 | :heavy_check_mark: Git and GitHub  | keep committing at least once a day                                                                                                         |
 | Project                            | building agency website in pairs                                                                                                            |
 | Spikes                             | Advanced DOM                                                                                                                                |
-| :heavy_check_mark: Execute Program | - JavaScript Arrays **100%**<br> - Modern JavaScript **100%**<br> - Concurrency **17%**<br> - Regular Expressions **65%**<br> - SQL **13%** |
+| :heavy_check_mark: Execute Program | - JavaScript Arrays **100%**<br> - Modern JavaScript **100%**<br> - Concurrency **29%**<br> - Regular Expressions **91%**<br> - SQL **22%** |
 | JS30                               | - [Object and Arrays - Reference VS Copy]()<br>- [Sorting Band Names without articles]()                                                    |
 | :heavy_check_mark: Twitter         | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                 |
 
