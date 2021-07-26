@@ -62,22 +62,13 @@
 
       const list_container = document.querySelector('#bands');
 
-      let test = bands.sort((a, b) => {
-        let article = /^(the |a |an )/gi;
-        let a_ = a;
-        let b_ = b;
-        if (article.test(a)) {
-          a_ = a[a.indexOf(' ') + 1];
-        } else if (article.test(b)) {
-          b_ = b[b.indexOf(' ') + 1];
-        }
-        console.log(a_);
-        console.log(b_);
+      function strip(bandName) {
+        return bandName.replace(/^(the |a |an )/i, '').trim();
+      }
 
-        if (a_ > b_) {
+      let test = bands.sort((a, b) => {
+        if (strip(a) > strip(b)) {
           return 1;
-        } else if (a_ === b_) {
-          return 0;
         } else {
           return -1;
         }
