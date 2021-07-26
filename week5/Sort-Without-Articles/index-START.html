@@ -60,7 +60,7 @@
         'An Old Dog',
       ];
 
-      const list_container = document.querySelector('#bands');
+      // const list_container = document.querySelector('#bands');
 
       function strip(bandName) {
         return bandName.replace(/^(the |a |an )/i, '').trim();
@@ -68,11 +68,9 @@
 
       let test = bands.sort((a, b) => (strip(a) > strip(b) ? 1 : -1));
 
-      test.forEach((e) => {
-        let li = document.createElement('li');
-        li.textContent = e;
-        list_container.append(li);
-      });
+      document.querySelector('#bands').innerHTML = test
+        .map((band) => `<li>${band}<li>`)
+        .join('');
     </script>
   </body>
 </html>
