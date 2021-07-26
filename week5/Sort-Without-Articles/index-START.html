@@ -66,13 +66,7 @@
         return bandName.replace(/^(the |a |an )/i, '').trim();
       }
 
-      let test = bands.sort((a, b) => {
-        if (strip(a) > strip(b)) {
-          return 1;
-        } else {
-          return -1;
-        }
-      });
+      let test = bands.sort((a, b) => (strip(a) > strip(b) ? 1 : -1));
 
       test.forEach((e) => {
         let li = document.createElement('li');
