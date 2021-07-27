@@ -92,14 +92,14 @@
 
 ---
 
-| Task                               | details                                                                                                                                     |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| :heavy_check_mark: Git and GitHub  | keep committing at least once a day                                                                                                         |
-| Project                            | building agency website in pairs                                                                                                            |
-| Spikes                             | Advanced DOM                                                                                                                                |
-| :heavy_check_mark: Execute Program | - JavaScript Arrays **100%**<br> - Modern JavaScript **100%**<br> - Concurrency **29%**<br> - Regular Expressions **91%**<br> - SQL **22%** |
-| JS30                               | - [Object and Arrays - Reference VS Copy]()<br>- [Sorting Band Names without articles]()                                                    |
-| :heavy_check_mark: Twitter         | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                 |
+| Task                               | details                                                                                                                                                        |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :heavy_check_mark: Git and GitHub  | keep committing at least once a day                                                                                                                            |
+| :heavy_check_mark: Project         | building agency website in pairs                                                                                                                               |
+| :heavy_check_mark: Spikes          | Advanced DOM                                                                                                                                                   |
+| :heavy_check_mark: Execute Program | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **29%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **32%** |
+| :heavy_check_mark: JS30            | - [Object and Arrays - Reference VS Copy]()<br>- [Sorting Band Names without articles]()                                                                       |
+| :heavy_check_mark: Twitter         | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                    |
 
 ---
 
