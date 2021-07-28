@@ -8,13 +8,33 @@
   <body>
     <h1>Open the console</h1>
     <script>
-      // My first attempt
+      // // My first attempt
 
-      const lights = ['green', 'amber', 'red', 'amber', 'green', 'finished'];
+      // const lights = ['green', 'amber', 'red', 'amber', 'green', 'finished'];
 
-      for (let i = 0; i < lights.length; i++) {
-        setTimeout(() => console.log(lights[i]), 1000 * (i + 1));
+      // for (let i = 0; i < lights.length; i++) {
+      //   setTimeout(() => console.log(lights[i]), 1000 * (i + 1));
+      // }
+
+      //FAC solution
+
+      function light(string, callback) {
+        setTimeout(() => {
+          console.log(string);
+          if (callback) {
+            callback();
+          }
+        }, 1000);
       }
+      light('green', () => {
+        light('amber', () => {
+          light('red', () => {
+            light('amber', () => {
+              light('green', light('finished'));
+            });
+          });
+        });
+      });
     </script>
   </body>
 </html>
