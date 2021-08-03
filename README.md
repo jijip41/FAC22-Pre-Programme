@@ -83,7 +83,6 @@
 
 <br>
 <br>
----
 
 ---
 
@@ -113,10 +112,10 @@
 
 | Task                               | details                                                                                                                                                        |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fetch                              | make two API calls                                                                                                                                             |
-| Promises                           | Learn about promises                                                                                                                                           |
-| Project                            | Work on getting your project repository set up ready for making API calls next week.                                                                           |
-| :heavy_check_mark: Execute Program | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **33%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **43%** |
+| :heavy_check_mark: Fetch           | make two API calls                                                                                                                                             |
+| :heavy_check_mark: Promises        | Learn about promises                                                                                                                                           |
+| :heavy_check_mark: Project         | Work on getting your project repository set up ready for making API calls next week.                                                                           |
+| :heavy_check_mark: Execute Program | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **38%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **53%** |
 | :heavy_check_mark: JS30            | - [Object and Arrays - Reference VS Copy]()<br>- [Sorting Band Names without articles]()                                                                       |
 | :heavy_check_mark: Twitter         | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                    |
 
