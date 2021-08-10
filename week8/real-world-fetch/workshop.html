@@ -4,23 +4,50 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Real world fetch</title>
+    <form action="">
+      <label for="first">First</label
+      ><input type="text" id="first" name="first" /><label for="second"
+        >Second</label
+      ><input type="text" id="second" name="second" />
+      <button>submit</button>
+    </form>
   </head>
   <body>
     <script>
-      const data = {
-        name: 'Jihye',
-      };
-      fetch('https://echo.oliverjam.workers.dev/json', {
-        method: 'POST',
-        body: JSON.stringify(data),
-        headers: { 'content-type': 'application/json' },
-      })
-        .then((response) => {
-          if (!response.ok) throw new Error(response.status);
-          return response.json();
+      // const data = {
+      //   name: 'Jihye',
+      // };
+      // fetch('https://echo.oliverjam.workers.dev/json', {
+      //   method: 'POST',
+      //   body: JSON.stringify(data),
+      //   headers: { 'content-type': 'application/json' },
+      // })
+      //   .then((response) => {
+      //     if (!response.ok) throw new Error(response.status);
+      //     return response.json();
+      //   })
+      //   .then((json) => console.log(json))
+      //   .catch((error) => console.error(error));
+
+      const form = document.querySelector('form');
+
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+
+        const first_value = document.querySelector('#first').value;
+        const second_value = document.querySelector('#second').value;
+        const data = { first_value, second_value };
+
+        fetch('https://echo.oliverjam.workers.dev/json', {
+          method: 'POST',
+          body: JSON.stringify(data),
+          headers: { 'content-type': 'application/json' },
         })
-        .then((json) => console.log(json))
-        .catch((error) => console.error(error));
+          .then((response) => {
+            return response.json();
+          })
+          .then((json) => console.log(json));
+      });
     </script>
   </body>
 </html>
