@@ -7,9 +7,9 @@
   </head>
   <body>
     <script>
-      fetch('https://echo.oliverjam.workers.dev/status/404')
-        .then(console.log())
-        .catch(console.log());
+      fetch('https://echo.oliverjam.workers.dev/status/404').then((response) =>
+        console.log(response)
+      );
     </script>
   </body>
 </html>
