@@ -6,6 +6,10 @@
     <title>Real world fetch</title>
   </head>
   <body>
-    <script></script>
+    <script>
+      fetch('https://echo.oliverjam.workers.dev/status/404')
+        .then(console.log())
+        .catch(console.log());
+    </script>
   </body>
 </html>
