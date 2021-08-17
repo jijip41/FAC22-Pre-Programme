@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learn Fetch & Promises</title>
+  </head>
+  <body>
+    <h1>Open the console</h1>
+    <script>
+      // function getUser(username) {
+      //   fetch(`https://api.github.com/users/${username}`).then((response) =>
+      //     response.json()
+      //   );
+      // } ==> why doesn't it work???
+
+      const getUser = (username) =>
+        fetch(`https://api.github.com/users/${username}`).then((response) =>
+          response.json()
+        );
+
+      getUser('oliverjam').then(console.log).catch(console.error);
+
+      const getRepos = (obj) =>
+        fetch(obj.repos_url).then((response) => response.json());
+
+      getUser('oliverjam')
+        .then(getRepos)
+        .then(console.log)
+        .catch(console.error);
+
+      const oliverPromise = getUser('oliverjam');
+      const starsuitPromise = getUser('starsuit');
+
+      Promise.all([oliverPromise, starsuitPromise])
+        .then(console.log)
+        .catch(console.error);
+    </script>
+  </body>
+</html>
