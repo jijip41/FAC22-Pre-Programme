@@ -65,7 +65,7 @@
 
 ---
 
-### Week4
+### [Week4](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week4)
 
 ---
 
@@ -86,7 +86,7 @@
 
 ---
 
-### Week5
+### [Week5](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week5)
 
 ---
 
@@ -106,7 +106,7 @@
 
 ---
 
-### Week6
+### [Week6](https://github.com/jijip41/FAC22-Pre-Programme/tree/main/week6/function)
 
 ---
 
