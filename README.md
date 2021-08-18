@@ -158,4 +158,21 @@
 
 ---
 
+<br>
+<br>
+
+---
+
+### [Week9]()
+
+---
+
+| Task                       | details                                                                                                                                                        |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Integration testing        | Practice writing integration tests for more realistic code that uses the DOM                                                                                   |
+| Execute Program            | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **48%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **63%** |
+| :heavy_check_mark: Twitter | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                    |
+
+---
+
 ![image description](https://camo.githubusercontent.com/b192adfb8ff465a3aa3fb799bdeb0d94774ccf150c09c8a1a209b5454cb0b64e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78484d4944417931716b7a4e532f67697068792e676966)
