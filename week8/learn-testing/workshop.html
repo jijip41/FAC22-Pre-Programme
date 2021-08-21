@@ -14,10 +14,12 @@
         return x * x;
       }
 
-      // let square_nine = square(9);
-      // console.log(square_nine === 81);
+      let square_nine = square(9);
+      console.log(square_nine === 81);
 
-      // Begin to automate
+      // 👆👆 This is manual test!
+
+      // 👇👇 Begin to automate
 
       let result;
       let expected;
@@ -32,6 +34,17 @@
       }
 
       console.log(cal(3));
+
+      // 👇👇 Make it reusable
+
+      function eaqual(exact, expected) {
+        if (exact === expected) {
+          return console.info('Correct!');
+        } else {
+          return console.error('Check it again!');
+        }
+      }
+      eaqual(square(3.5), 12.25);
     </script>
   </body>
 </html>
