@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learn Testing</title>
+  </head>
+  <body>
+    <h1>Open the console</h1>
+
+    <script>
+      // the function we're testing
+      function square(x) {
+        return x * x;
+      }
+
+      // let square_nine = square(9);
+      // console.log(square_nine === 81);
+
+      // Begin to automate
+
+      let result;
+      let expected;
+
+      function cal(exact) {
+        result = square(exact);
+        expected = 9;
+        if (exact !== expected) {
+          console.error('check it agian!');
+          return 'check it again!';
+        }
+      }
+
+      console.log(cal(3));
+    </script>
+  </body>
+</html>
