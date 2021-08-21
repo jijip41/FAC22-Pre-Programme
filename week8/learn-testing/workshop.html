@@ -37,6 +37,7 @@
 
       // 👇👇 Make it reusable
 
+      // 🙆‍♀️ Equal function
       function eaqual(exact, expected) {
         if (exact === expected) {
           return console.info('Correct!');
@@ -45,6 +46,16 @@
         }
       }
       eaqual(square(3.5), 12.25);
+
+      // 🙅‍♀️ Notequal function
+      function notEqual(exact, expected) {
+        if (exact !== expected) {
+          return console.info("Correct! that's not equal!");
+        } else {
+          return console.error("That's eqaul! It should be not equal!");
+        }
+      }
+      notEqual(square(54), 100);
     </script>
   </body>
 </html>
