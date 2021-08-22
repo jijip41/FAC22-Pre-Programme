@@ -38,14 +38,14 @@
       // 👇👇 Make it reusable
 
       // 🙆‍♀️ Equal function
-      function eaqual(exact, expected) {
+      function equal(exact, expected) {
         if (exact === expected) {
           return console.info('Correct!');
         } else {
           return console.error('Check it again!');
         }
       }
-      eaqual(square(3.5), 12.25);
+      equal(square(3.5), 12.25);
 
       // 🙅‍♀️ Notequal function
       function notEqual(exact, expected) {
@@ -60,9 +60,21 @@
       // Separating tests
       function test(name, testFunction) {
         console.group(name);
-        testFUnction();
+        testFunction();
         console.groupEnd();
       }
+
+      test('Correctly squares integers', () => {
+        const result = square(2);
+        const expected = 4;
+        equal(result, expected);
+      });
+
+      test('Correctly squares integers', () => {
+        const result = square(3.5);
+        const expected = 12.25;
+        equal(result, expected);
+      });
     </script>
   </body>
 </html>
