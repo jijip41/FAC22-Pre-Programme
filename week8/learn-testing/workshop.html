@@ -38,24 +38,30 @@
       // 👇👇 Make it reusable
 
       // 🙆‍♀️ Equal function
-      function equal(exact, expected) {
+      function equal(exact, expected, message) {
         if (exact === expected) {
-          return console.info('Correct!');
+          const defaultMessage = `Expected ${expected} and received ${exact}`;
+          return console.info('Pass: ' + (message || defaultMessage));
         } else {
-          return console.error('Check it again!');
+          const defaultMessage = `Expected ${expected} but received ${exact}`;
+          return console.error('Fail: ' + (message || defaultMessage));
         }
       }
       equal(square(3.5), 12.25);
+      equal(square(9), 99);
 
       // 🙅‍♀️ Notequal function
-      function notEqual(exact, expected) {
+      function notEqual(exact, expected, message) {
         if (exact !== expected) {
-          return console.info("Correct! that's not equal!");
+          const defaultMessage = `Expected ${expected} is different to received ${exact}`;
+          return console.info('Pass: ' + (message || defaultMessage));
         } else {
-          return console.error("That's eqaul! It should be not equal!");
+          const defaultMessage = `Expected ${expected} is the same as ${exact}`;
+          return console.error('Fail: ' + (message || defaultMessage));
         }
       }
       notEqual(square(54), 100);
+      notEqual(square(10), 100);
 
       // Separating tests
       function test(name, testFunction) {
