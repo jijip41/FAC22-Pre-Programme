@@ -149,12 +149,13 @@
 
 ---
 
-| Task                       | details                                                                                                                                                        |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Unit testing               | Use the test helpers I wrote to practice unit testing some functions                                                                                           |
-| Spikes                     | Checking our code <br> Testing methodologies                                                                                                                   |
-| Execute Program            | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **48%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **63%** |
-| :heavy_check_mark: Twitter | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                    |
+| Task                                         | details                                                                                                                                                        |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :heavy_check_mark:Learn testing in JavaScrip | Learn about testing by building my own tiny testing library.                                                                                                   |
+| Unit testing                                 | Use the test helpers I wrote to practice unit testing some functions                                                                                           |
+| Spikes                                       | Checking our code <br> Testing methodologies                                                                                                                   |
+| Execute Program                              | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **48%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **63%** |
+| :heavy_check_mark: Twitter                   | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                    |
 
 ---
 
