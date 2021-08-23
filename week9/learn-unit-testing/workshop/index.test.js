@@ -2,6 +2,10 @@ test('The URL is correct', () => {
   equal(makeUrl('pikachu'), 'https://pokeapi.co/api/v2/pikachu');
 });
 
+test('Object equality', () => {
+  console.log(searchParamsToObject('name=oliver&email=hello@oliverjam.es'));
+});
+
 // function equal(actual, expected, message) {
 //   if (actual === expected) {
 //     const defaultMessage = `Expected ${expected} and received ${actual}`;
