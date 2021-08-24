@@ -10,3 +10,21 @@ function searchParamsToObject(url) {
   const params = Object.fromEntries(entries);
   return params;
 }
+
+function isLeapYear(num) {
+  if (typeof num === 'string') {
+    return false;
+  }
+  if (num < 0) {
+    return false;
+  }
+  if (num % 400 === 0) {
+    return true;
+  }
+  if (num % 100 === 0) {
+    return false;
+  }
+  if (num % 4 === 0) {
+    return true;
+  }
+}

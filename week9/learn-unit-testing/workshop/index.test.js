@@ -14,6 +14,13 @@ test('Object equality', () => {
   console.log(searchParamsToObject('name=oliver&email=hello@oliverjam.es'));
 });
 
+test('Leap year', () => {
+  equal(isLeapYear(2020), true);
+  equal(isLeapYear('hello'), false);
+  equal(isLeapYear(-1000), false);
+  equal(isLeapYear(2000), true);
+  equal(isLeapYear(1900), false);
+});
 // function equal(actual, expected, message) {
 //   if (actual === expected) {
 //     const defaultMessage = `Expected ${expected} and received ${actual}`;
