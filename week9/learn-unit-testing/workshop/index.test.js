@@ -3,6 +3,14 @@ test('The URL is correct', () => {
 });
 
 test('Object equality', () => {
+  equal(
+    searchParamsToObject('name=oliver&email=hello@oliverjam.es').name,
+    'oliver'
+  );
+  equal(
+    searchParamsToObject('name=oliver&email=hello@oliverjam.es').email,
+    'hello@oliverjam.es'
+  );
   console.log(searchParamsToObject('name=oliver&email=hello@oliverjam.es'));
 });
 
