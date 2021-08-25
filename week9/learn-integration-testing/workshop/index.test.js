@@ -13,3 +13,15 @@ test('check devide', () => {
 test('check else', () => {
   equal(calculate(9, '_', 4), 'Please enter a valid sign (+, -, *, /)');
 });
+
+test('Testing UI logic', () => {
+  const firstInput = document.querySelector('#a');
+  firstInput.value = 1;
+  const sign = document.querySelector('#sign');
+  sign.value = '+';
+  const secondInput = document.querySelector('#b');
+  secondInput.value = 2;
+  const result = document.querySelector('#result');
+  equal(result.textContent, 3);
+  result.textContent = '';
+});
