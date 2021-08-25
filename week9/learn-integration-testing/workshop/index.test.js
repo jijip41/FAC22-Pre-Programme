@@ -16,12 +16,13 @@ test('check else', () => {
 
 test('Testing UI logic', () => {
   const firstInput = document.querySelector('#a');
-  firstInput.value = 1;
+  firstInput.value = '1';
   const sign = document.querySelector('#sign');
   sign.value = '+';
   const secondInput = document.querySelector('#b');
-  secondInput.value = 2;
+  secondInput.value = '2';
+  const submitButton = document.querySelector('button[type="submit"]');
   const result = document.querySelector('#result');
-  equal(result.textContent, 3);
+  equal(result.textContent, '12');
   result.textContent = '';
 });
