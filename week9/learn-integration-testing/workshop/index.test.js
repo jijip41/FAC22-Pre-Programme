@@ -22,7 +22,9 @@ test('Testing UI logic', () => {
   const secondInput = document.querySelector('#b');
   secondInput.value = '2';
   const submitButton = document.querySelector('button[type="submit"]');
+  submitButton.click();
   const result = document.querySelector('#result');
+
   equal(result.textContent, '12');
   result.textContent = '';
 });
