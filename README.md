@@ -189,7 +189,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tech Spikes                | - checking your code <br> - testing methodologies                                                                                                              |
 | Project                    | Build a to-do list tracker                                                                                                                                     |
-| Execute Program            | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **77%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **63%** |
+| Execute Program            | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **82%**<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **63%** |
 | :heavy_check_mark: Twitter | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak)                                                                                    |
 
 ---
