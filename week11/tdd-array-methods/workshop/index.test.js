@@ -1,6 +1,6 @@
 // TDD example
 test('double(2) should be 4', () => {
-  equal(double(2), 3);
+  equal(double(2), 4);
 });
 
 // testing map()
