@@ -3,6 +3,10 @@ test('double(2) should be 4', () => {
   equal(double(2), 4);
 });
 
+test('double(2) should be 4', () => {
+  equal(double(4), 8);
+});
+
 // testing map()
 
 // test("map() should return an array with the same number of elements", () => {
