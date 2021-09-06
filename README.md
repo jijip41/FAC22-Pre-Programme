@@ -207,7 +207,7 @@
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tech Spikes     | <br>                                                                                                                                                                                                                              |
 | Project         | Carry on a to-do list tracker                                                                                                                                                                                                     |
-| Execute Program | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **100%**🎉🎉🎉<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **63%** <br> - TypeScript Basics **45%** <br> - Everyday TypeScript |
+| Execute Program | - JavaScript Arrays **100%**🎉🎉🎉<br> - Modern JavaScript **100%**🎉🎉🎉<br> - Concurrency **100%**🎉🎉🎉<br> - Regular Expressions **100%**🎉🎉🎉<br> - SQL **63%** <br> - TypeScript Basics **55%** <br> - Everyday TypeScript |
 
 |
 | :heavy_check_mark: Twitter | - Get active on Twitter / [check my Twitter](https://twitter.com/jihye_pak) |
