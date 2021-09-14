@@ -10,8 +10,8 @@ test('double(2) should be 4', () => {
 // testing map()
 
 test('map() takes an array as an argument', () => {
-  const result = map([], () => {});
-  equal(Array.isArray(result), true);
+  equal(Array.isArray(map()), true);
+  equal(Array.isArray(map([])), true);
 });
 
 test('map() requires array and fn arguments', () => {
