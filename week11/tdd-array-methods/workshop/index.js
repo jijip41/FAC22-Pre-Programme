@@ -3,7 +3,10 @@ function double(n) {
 }
 
 function map(array, fn) {
-  if (!Array.isArray(array)) return 'please enter an array';
-  if (typeof fn !== 'function') return 'please enter a function';
-  return 'passed!';
+  const newArray = [];
+
+  for (let i = 0; i < array.length; i++) {
+    newArray.push(fn(i));
+  }
+  return newArray;
 }
